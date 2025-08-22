@@ -63,6 +63,6 @@ This Agreement shall be governed and construed under the laws of India.
 9. Contact
 
 For inquiries regarding licensing, please contact:
-Tika Ram Bhatt (Ashish Bhatt)
+**Tika Ram Bhatt (Ashish Bhatt)
 Email: bhattt26@gmail.com
-Phone: +91-8958269509, 7017344919
+Phone: +91-8958269509, 7017344919**
