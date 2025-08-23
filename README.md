@@ -63,7 +63,7 @@ For licensing and pricing, contact:
 ## **How It Works**
 
 ### **Step 1: Prepare Your Files**
-- For the splitter module, ensure your source Excel file is ready.
+- For the splitter module, ensure your source Excel file is ready and criteria should be shorted.
 - For email sending, prepare the email data sheet (sample provided).
 
 ### **Step 2: Run the Tool**
