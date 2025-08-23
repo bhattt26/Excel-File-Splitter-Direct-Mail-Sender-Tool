@@ -1,68 +1,103 @@
-# Excel-File-Splitter-Direct-Mail-Sender-Tool
-Excel File Splitter and mailer Split large Excel files into smaller files based on user-defined criteria with best formatting. Direct Mail Sender: Send bulk or individual emails via Microsoft Outlook, with options to include attachments, CC, BCC, and error logging. Any errors occurring during the operation saved into an error log file to review.
-
-LICENSE AGREEMENT
-
-Copyright © 2025 Tika Ram Bhatt
-All rights reserved.
+**Copyright © 2025 Tika Ram Bhatt**
+**All rights reserved.**
 
 This software (“the Tool”) is developed and owned by Tika Ram Bhatt. By installing or using this Tool, you agree to the following terms:
 
-**1. Working of the Tool
+# Excel File Splitter & Direct Mail Sender Tool
 
-The Tool is designed to:
+## **Overview**
+The **Excel File Splitter & Direct Mail Sender Tool** is an easy-to-use desktop solution for businesses, sales teams, and administrators who frequently manage large Excel data and need to send personalized emails quickly and accurately via Microsoft Outlook.
 
-Excel File Splitter: Split large Excel files into smaller parts based on user-defined criteria, applying formatting where required.
+With this tool, you can:
+- Split large Excel files into multiple smaller files based on your chosen criteria.
+- Automatically email these files to relevant recipients in just a few minutes.
+- Send bulk or individual emails with attachments, CC, BCC, and error logging for complete reliability.
 
-Direct Mail Sender: Send bulk or individual emails via Microsoft Outlook, with options to include attachments, CC, BCC, and error logging.
+---
 
-Error Logging: Any errors occurring during file splitting or mail sending are saved into an error log file for review.
+## **Key Features**
 
-User Control: The Tool requires the user to manually provide file paths, email addresses, and attachments. The Tool does not automatically access or transmit any data without user initiation.
+### **1. Excel File Splitter & Automated Emailer**
+- Split large Excel files into smaller, more manageable files.
+- Apply user-defined filters and formatting during splitting.
+- Instantly send these split files to corresponding email addresses (using a template sheet for email data).
+- Supports:
+  - CC and BCC fields
+  - Error logging for failed emails
 
-This explanation is included for transparency and to ensure users understand the Tool’s intended purpose and limitations.
-**
-2. Grant of License
+---
 
-You are granted a non-exclusive, non-transferable license to use this Tool for personal or business purposes.
+### **2. Direct Mail Sender**
+- Send **bulk or single emails** directly from your Microsoft Outlook account.
+- Attach multiple files to emails effortlessly.
+- Built-in error logging to track any email delivery issues.
 
-This license does not grant you the right to modify, distribute, or resell the Tool without written permission from the copyright owner.
+---
 
-3. Restrictions
+### **3. Error Logging**
+- All errors encountered during file splitting or email sending are saved in a log file.
+- Makes troubleshooting easy and transparent.
 
-You may NOT:
+---
 
-Copy, modify, or create derivative works of the Tool.
+### **4. User-Controlled & Secure**
+- No automatic data collection.
+- Users provide all file paths, email addresses, and attachments manually.
+- 100% control over what data is sent.
 
-Distribute, sublicense, sell, or rent the Tool.
+---
 
-Reverse engineer, decompile, or disassemble the Tool.
+## **Trial & Licensing**
+- Every download comes with a **7-day free trial**.
+- After the trial period, activation is required:
+  - **Yearly License:** Affordable and renewable
+  - **Lifetime License:** One-time payment for unlimited use
 
-Use the Tool for unlawful purposes or in violation of any regulations.
+For licensing and pricing, contact:
+- 📞 **+91-8958269509**
+- 📞 **+91-7017344919**
+- 📧 **bhattt26@gmail.com**
 
-4. Ownership
+---
 
-The Tool and all associated code, documentation, and materials are the intellectual property of Tika Ram Bhatt and are protected under applicable copyright laws.
+## **How It Works**
 
-5. Disclaimer of Warranty
+### **Step 1: Prepare Your Files**
+- For the splitter module, ensure your source Excel file is ready.
+- For email sending, prepare the email data sheet (sample provided).
 
-The Tool is provided “AS IS,” without warranties of any kind, express or implied. The copyright owner does not guarantee that the Tool will meet your requirements or be error-free.
+### **Step 2: Run the Tool**
+- Launch the application (`.exe` file).
+- Choose either:
+  - **Excel Splitter Module**  
+  - **Direct Mail Sender Module**
 
-6. Limitation of Liability
+### **Step 3: Configure Settings**
+- Provide required file paths and options.
+- Add CC/BCC and attachments if needed.
 
-In no event shall the copyright owner be liable for any damages (including, without limitation, lost profits, business interruption, or data loss) arising from the use or inability to use the Tool.
+### **Step 4: Execute & Review**
+- Run the process.
+- Check the output folder for split files or verify email sending in Outlook.
+- Review the log file for any errors or skipped items.
 
-7. Termination
+---
 
-This license is effective until terminated. It will terminate automatically if you fail to comply with any terms of this Agreement. Upon termination, you must immediately stop using the Tool.
+## **System Requirements**
+- **OS:** Windows 7 or later
+- **Software:** Microsoft Excel & Microsoft Outlook installed
+- **RAM:** 4GB minimum (8GB recommended)
+- **Disk Space:** At least 500MB free
 
-8. Governing Law
+---
 
-This Agreement shall be governed and construed under the laws of India.
+## **Support**
+For technical assistance, activation, or troubleshooting, reach out to:
+- **Email:** bhattt26@gmail.com
+- **Phone:** +91-8958269509 / +91-7017344919
 
-9. Contact
+---
 
-For inquiries regarding licensing, please contact:
-**Tika Ram Bhatt (Ashish Bhatt)
-Email: bhattt26@gmail.com
-Phone: +91-8958269509, 7017344919**
+## **Disclaimer**
+This tool is provided “as is” for business productivity purposes. It does not access or transmit your data automatically and requires user input for every operation.
+
