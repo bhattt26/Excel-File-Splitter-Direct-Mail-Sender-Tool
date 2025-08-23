@@ -8,7 +8,7 @@ All rights reserved.
 
 This software (“the Tool”) is developed and owned by Tika Ram Bhatt. By installing or using this Tool, you agree to the following terms:
 
-1. Working of the Tool
+**1. Working of the Tool
 
 The Tool is designed to:
 
@@ -21,7 +21,7 @@ Error Logging: Any errors occurring during file splitting or mail sending are sa
 User Control: The Tool requires the user to manually provide file paths, email addresses, and attachments. The Tool does not automatically access or transmit any data without user initiation.
 
 This explanation is included for transparency and to ensure users understand the Tool’s intended purpose and limitations.
-
+**
 2. Grant of License
 
 You are granted a non-exclusive, non-transferable license to use this Tool for personal or business purposes.
