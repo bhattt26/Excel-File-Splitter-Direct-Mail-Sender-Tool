@@ -1,7 +1,3 @@
-**Copyright © 2025 Tika Ram Bhatt**
-**All rights reserved.**
-
-This software (“the Tool”) is developed and owned by Tika Ram Bhatt. By installing or using this Tool, you agree to the following terms:
 
 # Excel File Splitter & Direct Mail Sender Tool
 
@@ -100,4 +96,7 @@ For technical assistance, activation, or troubleshooting, reach out to:
 
 ## **Disclaimer**
 This tool is provided “as is” for business productivity purposes. It does not access or transmit your data automatically and requires user input for every operation.
+
+**Copyright © 2025 Tika Ram Bhatt**
+**All rights reserved.**
 
