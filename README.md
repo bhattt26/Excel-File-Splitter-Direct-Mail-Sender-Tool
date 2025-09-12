@@ -97,6 +97,7 @@ For technical assistance, activation, or troubleshooting, reach out to:
 ## **Disclaimer**
 This tool is provided “as is” for business productivity purposes. It does not access or transmit your data automatically and requires user input for every operation.
 
+##
 **Copyright © 2025 Tika Ram Bhatt**
 **All rights reserved.**
 
